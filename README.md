@@ -1,8 +1,8 @@
 # Projet Pharmacie - Gestion de Pharmacie MAPHARMA (JEE)
 
 ## Auteur
-KOUCHANOU JUAN Prince
-BARA SAKINATOU
+ - KOUCHANOU JUAN Prince
+ - BARA SAKINATOU
 
 ## Technologies utilisées
 - Java 21  
