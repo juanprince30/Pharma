@@ -22,13 +22,11 @@ cd nom-du-projet
 ```
 
 ### Configurer la base de données MySQL
- Creer une Base de donnee 
-```
+ - Creer une Base de donnee :
+
+ ```
 myjeedb
 ```
-
-### Configurer la base de données MySQL
- - Creer une Base de donnee myjeedb
  - Modifier les accès à la DB dans :
 
 
