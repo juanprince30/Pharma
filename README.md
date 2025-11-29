@@ -53,6 +53,7 @@ Utilisateur connecter
 Utilisateur non connecter
  - /register/
  - /login/
+ - /
 
 
 
